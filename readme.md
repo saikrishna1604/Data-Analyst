@@ -92,11 +92,11 @@ An **AWS Glue ETL pipeline** was built to:
 ### Deliverables
 1. **Ownership Distribution Analysis:**  
    Insights into ownership percentages (Private, Government, Non-Profit).  
-   ![Figure 7: Ownership Distribution](owner_dis,png)  
+   ![Figure 7: Ownership Distribution](owner_dis.png)  
 
 2. **Local Area Analysis:**  
    Visualization of cultural spaces concentrated in each area.  
-   ![Figure 8: Local Area Analysis Output](local_area_ooutput.png)  
+   ![Figure 8: Local Area Analysis Output](loca_area_ooutput.png)  
 
 3. **ETL Pipeline:**  
    Efficient and repeatable workflow for future datasets.  
